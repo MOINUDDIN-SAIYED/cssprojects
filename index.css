@@ -54,10 +54,12 @@
   align-items: center;
   font-size: 30px;
   margin-left: 120px;
+  
 }
 
 .nav-facebook i {
   margin-right: 30px;
+  outline-color: transparent;
 }
 
 .content {
