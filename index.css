@@ -69,13 +69,15 @@ a:hover{
   outline-color: transparent;
 }
 
+.nav-facebook i:hover{
+  color: #f9b969;
+}
+
+/* Content */
+
 .content {
   height: 800px;
   background-image: url("Background.png");
   background-size: cover;
   background-repeat: no-repeat;
-}
-
-.nav-facebook i:hover{
-  color: #f9b969;
 }
